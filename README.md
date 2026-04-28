@@ -1,7 +1,7 @@
 ## **Push-level-discord Install Termux Android** ##
 
 
-![Deskripsi GIF](https://files.catbox.moe/hv6pci.gif)
+![Deskripsi GIF](https://i.imgur.com/ZHirVPj.gif)
 ```bash
 pkg install python
 ```
